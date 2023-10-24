@@ -1,5 +1,5 @@
 package pers.chenmo.myapp.First;
-
+/* 电子动物 */
 class Feeder {
   String name;
 
